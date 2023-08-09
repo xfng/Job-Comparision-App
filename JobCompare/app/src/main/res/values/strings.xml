@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JobCompare6300</string>
+    <string name="main_menu_title">Main Menu</string>
+    <string name="current_job_btn_text">Current Job</string>
+    <string name="add_job_offers_btn_text">Add Job Offers</string>
+    <string name="compare_settings_btn_text">Compare Settings</string>
+    <string name="compare_jobs_btn_text">Compare Jobs</string>
+</resources>
