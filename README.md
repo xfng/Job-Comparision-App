@@ -15,3 +15,4 @@ Once installed, open the app and set your job preferences to start comparing job
 
 
 ## Feature Demonstration
+![Here is the feature of the application](/Demo/Feature%20Demo.gif)
