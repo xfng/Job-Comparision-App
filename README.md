@@ -15,4 +15,4 @@ Once installed, open the app and set your job preferences to start comparing job
 
 
 ## Feature Demonstration
-![Here is the feature of the application](/Demo/Feature_Demo.gif)
+![Here is the feature of the application]<img src="/Demo/Feature_Demo.gif" width="200" height="400"/>
